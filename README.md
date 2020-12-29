@@ -1,6 +1,6 @@
-#This is the project for spring quick start template
+# This is the project for spring quick start template
 
 
-##For now include:
+## For now include:
 1.  AOP log module
 2.  Exception handler
